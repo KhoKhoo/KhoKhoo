@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhoKhoo
+- 👋 Hi, I’m Kholod a student at iau
 - 👀 I’m interested in learing to love programming 
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: i love math
